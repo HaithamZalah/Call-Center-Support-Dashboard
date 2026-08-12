@@ -22,4 +22,10 @@ This project presents an end-to-end Call Center Performance Dashboard designed t
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="1169" height="531" alt="image" src="https://github.com/user-attachments/assets/57431d48-0d00-410b-a61f-87560c2b68ee" />
+<img width="1326" height="739" alt="image" src="https://github.com/user-attachments/assets/db38cf2d-9087-453e-931f-ca23d8038924" />
+<img width="1323" height="744" alt="image" src="https://github.com/user-attachments/assets/3e44f95d-a695-4ba5-8777-bee4cfe67ee5" />
+<img width="1314" height="743" alt="image" src="https://github.com/user-attachments/assets/7a6c58f3-ff5c-4dd6-aedc-ec6177a894d8" />
+<img width="1320" height="740" alt="image" src="https://github.com/user-attachments/assets/18968d30-ee7f-449f-8584-4ce6bcac3119" />
+<img width="1308" height="743" alt="image" src="https://github.com/user-attachments/assets/12d5cfbd-c5c6-4478-bd2b-d5399e091689" />
+<img width="1317" height="743" alt="image" src="https://github.com/user-attachments/assets/1ae7b6a5-4bd3-449b-80a0-c478c7d6b6cd" />
+
